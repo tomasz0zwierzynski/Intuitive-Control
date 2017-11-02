@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="3dconnexionAnother" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/3dconnexionAnother" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="Inc" />
+				</Compiler>
+				<Linker>
+					<Add library="Lib/x86/siapp.lib" />
+					<Add library="Lib/x86/spwmath.lib" />
+					<Add library="Lib/x86/spwmathD.lib" />
+					<Add library="Lib/x86/spwmathMT.lib" />
+					<Add library="Lib/x86/spwmathMTD.lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/3dconnexionAnother" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="SiCfg.h" />
+		<Unit filename="V3DCMD.h" />
+		<Unit filename="V3DKey.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="si.h" />
+		<Unit filename="siDefines.h" />
+		<Unit filename="siSync.h" />
+		<Unit filename="siSyncDefines.h" />
+		<Unit filename="siSyncPriv.h" />
+		<Unit filename="siapp.h" />
+		<Unit filename="siappcmd.h" />
+		<Unit filename="siappcmd_types.h" />
+		<Unit filename="spwdata.h" />
+		<Unit filename="spwerror.h" />
+		<Unit filename="spwmacro.h" />
+		<Unit filename="spwmath.h" />
+		<Unit filename="virtualkeys.hpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

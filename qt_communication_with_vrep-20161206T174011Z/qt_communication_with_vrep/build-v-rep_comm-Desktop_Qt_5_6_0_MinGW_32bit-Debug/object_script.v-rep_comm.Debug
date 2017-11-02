@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\mainwnd.o
+./debug\vrapi.o
+./debug\simhandler.o
+./debug\extApi.o
+./debug\extApiPlatform.o
+./debug\setup.o
+./debug\simdata.o
+./debug\moc_mainwnd.o
+./debug\moc_vrapi.o
+./debug\moc_simhandler.o
+./debug\moc_setup.o
+);

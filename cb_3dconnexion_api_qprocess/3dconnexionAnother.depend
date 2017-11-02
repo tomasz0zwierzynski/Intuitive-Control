@@ -1,0 +1,198 @@
+# depslib dependency file v1.0
+1476371998 source:c:\users\nails\documents\cb_proj\3dconnexionanother\3dconnexionanother\main.cpp
+	"windows.h"
+	<iostream>
+	"spwmacro.h"
+	"si.h"
+	"siapp.h"
+
+1460084594 c:\users\nails\documents\cb_proj\3dconnexionanother\3dconnexionanother\inc\spwmacro.h
+
+1476290217 c:\users\nails\documents\cb_proj\3dconnexionanother\3dconnexionanother\inc\si.h
+	<windows.h>
+	"spwmacro.h"
+	"spwdata.h"
+	"siSync.h"
+	"V3DKey.h"
+	"V3DCMD.h"
+	"spwerror.h"
+	"siDefines.h"
+
+1460084600 c:\users\nails\documents\cb_proj\3dconnexionanother\3dconnexionanother\inc\spwdata.h
+
+1460084592 c:\users\nails\documents\cb_proj\3dconnexionanother\3dconnexionanother\inc\sisync.h
+	"siSyncDefines.h"
+	"siSyncPriv.h"
+
+1460084600 c:\users\nails\documents\cb_proj\3dconnexionanother\3dconnexionanother\inc\sisyncdefines.h
+
+1460084592 c:\users\nails\documents\cb_proj\3dconnexionanother\3dconnexionanother\inc\sisyncpriv.h
+
+1460084600 c:\users\nails\documents\cb_proj\3dconnexionanother\3dconnexionanother\inc\v3dkey.h
+
+1460084600 c:\users\nails\documents\cb_proj\3dconnexionanother\3dconnexionanother\inc\v3dcmd.h
+
+1460084600 c:\users\nails\documents\cb_proj\3dconnexionanother\3dconnexionanother\inc\spwerror.h
+
+1460084600 c:\users\nails\documents\cb_proj\3dconnexionanother\3dconnexionanother\inc\sidefines.h
+
+1460084600 c:\users\nails\documents\cb_proj\3dconnexionanother\3dconnexionanother\inc\siapp.h
+
+1460084594 c:\users\nails\documents\cb_proj\3dconnexionanother\3dconnexionanother\spwmacro.h
+
+1476290217 c:\users\nails\documents\cb_proj\3dconnexionanother\3dconnexionanother\si.h
+	<windows.h>
+	"spwmacro.h"
+	"spwdata.h"
+	"siSync.h"
+	"V3DKey.h"
+	"V3DCMD.h"
+	"spwerror.h"
+	"siDefines.h"
+
+1460084600 c:\users\nails\documents\cb_proj\3dconnexionanother\3dconnexionanother\spwdata.h
+
+1460084592 c:\users\nails\documents\cb_proj\3dconnexionanother\3dconnexionanother\sisync.h
+	"siSyncDefines.h"
+	"siSyncPriv.h"
+
+1460084600 c:\users\nails\documents\cb_proj\3dconnexionanother\3dconnexionanother\sisyncdefines.h
+
+1460084592 c:\users\nails\documents\cb_proj\3dconnexionanother\3dconnexionanother\sisyncpriv.h
+
+1460084600 c:\users\nails\documents\cb_proj\3dconnexionanother\3dconnexionanother\v3dkey.h
+
+1460084600 c:\users\nails\documents\cb_proj\3dconnexionanother\3dconnexionanother\v3dcmd.h
+
+1460084600 c:\users\nails\documents\cb_proj\3dconnexionanother\3dconnexionanother\spwerror.h
+
+1460084600 c:\users\nails\documents\cb_proj\3dconnexionanother\3dconnexionanother\sidefines.h
+
+1460084600 c:\users\nails\documents\cb_proj\3dconnexionanother\3dconnexionanother\siapp.h
+
+1478606394 source:e:\studenci\tomasz_zwierzynski\cb_3dconnexion_api\main.cpp
+	<tchar.h>
+	"windows.h"
+	<iostream>
+	<string>
+	<sstream>
+	"spwmacro.h"
+	"si.h"
+	"siapp.h"
+
+1460084594 e:\studenci\tomasz_zwierzynski\cb_3dconnexion_api\spwmacro.h
+
+1476290218 e:\studenci\tomasz_zwierzynski\cb_3dconnexion_api\si.h
+	<windows.h>
+	"spwmacro.h"
+	"spwdata.h"
+	"siSync.h"
+	"V3DKey.h"
+	"V3DCMD.h"
+	"spwerror.h"
+	"siDefines.h"
+
+1460084600 e:\studenci\tomasz_zwierzynski\cb_3dconnexion_api\spwdata.h
+
+1460084592 e:\studenci\tomasz_zwierzynski\cb_3dconnexion_api\sisync.h
+	"siSyncDefines.h"
+	"siSyncPriv.h"
+
+1460084600 e:\studenci\tomasz_zwierzynski\cb_3dconnexion_api\sisyncdefines.h
+
+1460084592 e:\studenci\tomasz_zwierzynski\cb_3dconnexion_api\sisyncpriv.h
+
+1460084600 e:\studenci\tomasz_zwierzynski\cb_3dconnexion_api\v3dkey.h
+
+1460084600 e:\studenci\tomasz_zwierzynski\cb_3dconnexion_api\v3dcmd.h
+
+1460084600 e:\studenci\tomasz_zwierzynski\cb_3dconnexion_api\spwerror.h
+
+1460084600 e:\studenci\tomasz_zwierzynski\cb_3dconnexion_api\sidefines.h
+
+1460084600 e:\studenci\tomasz_zwierzynski\cb_3dconnexion_api\siapp.h
+
+1478795066 source:e:\studenci\tomasz_zwierzynski\cb_3dconnexion_api_qprocess\main.cpp
+	<tchar.h>
+	"windows.h"
+	<iostream>
+	<string>
+	<sstream>
+	"spwmacro.h"
+	"si.h"
+	"siapp.h"
+
+1460052194 e:\studenci\tomasz_zwierzynski\cb_3dconnexion_api_qprocess\spwmacro.h
+
+1476257818 e:\studenci\tomasz_zwierzynski\cb_3dconnexion_api_qprocess\si.h
+	<windows.h>
+	"spwmacro.h"
+	"spwdata.h"
+	"siSync.h"
+	"V3DKey.h"
+	"V3DCMD.h"
+	"spwerror.h"
+	"siDefines.h"
+
+1460052200 e:\studenci\tomasz_zwierzynski\cb_3dconnexion_api_qprocess\spwdata.h
+
+1460052192 e:\studenci\tomasz_zwierzynski\cb_3dconnexion_api_qprocess\sisync.h
+	"siSyncDefines.h"
+	"siSyncPriv.h"
+
+1460052200 e:\studenci\tomasz_zwierzynski\cb_3dconnexion_api_qprocess\sisyncdefines.h
+
+1460052192 e:\studenci\tomasz_zwierzynski\cb_3dconnexion_api_qprocess\sisyncpriv.h
+
+1460052200 e:\studenci\tomasz_zwierzynski\cb_3dconnexion_api_qprocess\v3dkey.h
+
+1460052200 e:\studenci\tomasz_zwierzynski\cb_3dconnexion_api_qprocess\v3dcmd.h
+
+1460052200 e:\studenci\tomasz_zwierzynski\cb_3dconnexion_api_qprocess\spwerror.h
+
+1460052200 e:\studenci\tomasz_zwierzynski\cb_3dconnexion_api_qprocess\sidefines.h
+
+1460052200 e:\studenci\tomasz_zwierzynski\cb_3dconnexion_api_qprocess\siapp.h
+
+1478754450 source:e:\praca_inzynierska\programowanie\cb_3dconnexion_api_qprocess\main.cpp
+	<tchar.h>
+	"windows.h"
+	<iostream>
+	<string>
+	<sstream>
+	"spwmacro.h"
+	"si.h"
+	"siapp.h"
+
+1460052194 e:\praca_inzynierska\programowanie\cb_3dconnexion_api_qprocess\spwmacro.h
+
+1476257818 e:\praca_inzynierska\programowanie\cb_3dconnexion_api_qprocess\si.h
+	<windows.h>
+	"spwmacro.h"
+	"spwdata.h"
+	"siSync.h"
+	"V3DKey.h"
+	"V3DCMD.h"
+	"spwerror.h"
+	"siDefines.h"
+
+1460052200 e:\praca_inzynierska\programowanie\cb_3dconnexion_api_qprocess\spwdata.h
+
+1460052192 e:\praca_inzynierska\programowanie\cb_3dconnexion_api_qprocess\sisync.h
+	"siSyncDefines.h"
+	"siSyncPriv.h"
+
+1460052200 e:\praca_inzynierska\programowanie\cb_3dconnexion_api_qprocess\sisyncdefines.h
+
+1460052192 e:\praca_inzynierska\programowanie\cb_3dconnexion_api_qprocess\sisyncpriv.h
+
+1460052200 e:\praca_inzynierska\programowanie\cb_3dconnexion_api_qprocess\v3dkey.h
+
+1460052200 e:\praca_inzynierska\programowanie\cb_3dconnexion_api_qprocess\v3dcmd.h
+
+1460052200 e:\praca_inzynierska\programowanie\cb_3dconnexion_api_qprocess\spwerror.h
+
+1460052200 e:\praca_inzynierska\programowanie\cb_3dconnexion_api_qprocess\sidefines.h
+
+1460052200 e:\praca_inzynierska\programowanie\cb_3dconnexion_api_qprocess\siapp.h
+

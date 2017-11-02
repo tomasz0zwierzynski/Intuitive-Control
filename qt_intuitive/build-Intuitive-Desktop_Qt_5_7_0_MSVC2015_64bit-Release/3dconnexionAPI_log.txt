@@ -1,0 +1,76 @@
+
+
+-------------------
+Mon Dec 19 16:56:15 2016
+
+Starting api...
+SiInitialize() done.
+CreateFile() was successful.
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful.
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful.
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful.
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 
+WriteFile() was successful. 

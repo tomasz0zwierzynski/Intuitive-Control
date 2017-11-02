@@ -1,0 +1,8 @@
+Mon Nov 14 09:09:05 2016
+Starting api...
+
+-------------------
+Mon Nov 14 09:31:27 2016
+
+Starting api...
+Error occurred while connecting to the server: 2

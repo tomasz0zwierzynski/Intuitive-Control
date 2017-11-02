@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\mainwnd.o
+./release\vrapi.o
+./release\simhandler.o
+./release\extApi.o
+./release\extApiPlatform.o
+./release\setup.o
+./release\simdata.o
+./release\moc_mainwnd.o
+./release\moc_vrapi.o
+./release\moc_simhandler.o
+./release\moc_setup.o
+);
